@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Blog site",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmoykaranjai/blog.git"
+  },
+  "author": "Tanmoy Karanjai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmoykaranjai/blog/issues"
+  },
+  "homepage": "https://github.com/tanmoykaranjai/blog#readme",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.1",
+    "path": "^0.12.7"
+  }
+}
